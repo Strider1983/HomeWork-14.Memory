@@ -6,7 +6,7 @@ public class Task6 {
         Integer value = 33;
         System.out.println("Start value - " + value);
         changeValue(value);
-        System.out.println("Nev value - " + value);
+        System.out.println("New value - " + value);
 
         }
     }
