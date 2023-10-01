@@ -8,6 +8,6 @@ public class Task7 {
         Integer [] value = new Integer[] {3, 4};
         System.out.println("Start value - " + Arrays.toString(value));
         changeValue(value);
-        System.out.println("Nev value - " + Arrays.toString(value));
+        System.out.println("New value - " + Arrays.toString(value));
         }
     }
